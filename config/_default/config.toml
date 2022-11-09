@@ -4,7 +4,7 @@ baseURL = 'https://sbwiecko.github.io/cv/'
 languageCode = 'en-us'
 title = 'another version of my resume'
 theme = 'hugo-orbit-theme'
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "G-6V8FZTPY5E"
 
 # Do not build files for websites. Need them? Set to false
 disableRSS = true
