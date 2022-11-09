@@ -31,7 +31,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Sébastien Wieckowski, Ph.D."
-        tagline = "biotechnologist--immunologist, age 42, French/EU citizenship, married and one child"
+        tagline = "immunologist, age 42, French/EU citizenship, married and one child"
         avatar = "profile-pic.png"
 
     # Contact section
@@ -51,25 +51,19 @@ disable404 = true
         title = "+33 7 67 13 78 82"
 
         [[params.contact.list]]
-        class = "website"
-        icon = "fa-globe"
-        url = "//sbwiecko.github.io/my_resume/"
-        title = "academic CV"
-
-        [[params.contact.list]]
         class = "linkedin"
         icon = "fa-linkedin"
         url = "//linkedin.com/in/sbwiecko"
         title = "/sbwiecko"
 
         [[params.contact.list]]
-        class = "scholar"
-        icon = "fa-graduation-cap"
-        url = "//www.ncbi.nlm.nih.gov/pubmed/?term=sebastien+wieckowski"
-        title = "PubMed"
+        class = "twitter"
+        icon = "fa-twitter"
+        url = "//twitter.com/sbwiecko"
+        title = "@sbwiecko"
 
         [[params.contact.list]]
-        class = "pubmed"
+        class = "scholar"
         icon = "fa-graduation-cap"
         url = "//scholar.google.com/citations?user=fzECT2QAAAAJ&hl=en"
         title = "Google Scholar"
@@ -79,12 +73,6 @@ disable404 = true
         icon = "fa-graduation-cap"
         url = "//www.researchgate.net/profile/Sebastien_Wieckowski"
         title = "researchgate"
-
-        [[params.contact.list]]
-        class = "twitter"
-        icon = "fa-twitter"
-        url = "//twitter.com/sbwiecko"
-        title = "@sbwiecko"
 
         [[params.contact.list]]
         class = "github"
@@ -97,6 +85,12 @@ disable404 = true
         icon = "fa-stack-overflow"
         url = "//stackoverflow.com/users/8275142/s%c3%a9bastien-wieckowski"
         title = "/user/8275142"
+
+        [[params.contact.list]]
+        class = "website"
+        icon = "fa-external-link"
+        url = "//sbwiecko.github.io/my_resume/"
+        title = "Full CV"
 
     # Education section
     [params.education]
@@ -134,15 +128,15 @@ disable404 = true
 
         [[params.language.list]]
         language = "English"
-        level = "full professional proficiency"
+        level = "professional"
 
         [[params.language.list]]
         language = "German"
-        level = "elementary proficiency"
+        level = "elementary"
 
         [[params.language.list]]
         language = "Polish"
-        level = "elementary proficiency"
+        level = "elementary"
 
 
 # Main body sections
