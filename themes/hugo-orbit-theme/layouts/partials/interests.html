@@ -1,0 +1,10 @@
+{{- with .Site.Params.interests }}
+<div class="interests-container container-block">
+    <h2 class="container-block-title">{{ .title }}</h2>
+    <ul class="list-unstyled interests-list">
+    {{ range .list }}
+        <li>{{ . }}</li>
+    {{ end }}
+    </ul>
+</div><!--//interests-->
+{{- end }}

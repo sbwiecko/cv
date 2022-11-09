@@ -1,0 +1,350 @@
+summary:
+  enable: true
+  icon: "fa-user"
+  title: "Career Profile"
+  summary: |
+    * PhD-qualified immunologist with 15 years of experience with a focus on tumor immunology and cancer vaccines
+    * gained a valued experience at all stages of drug development: discovery, IND-enabling, GLP nonclinical and biomarker supports for phase II and GMP-bioassays for phase III and commercialization
+    * published 6 first author + 18 co-author manuscripts in high-impact scientific journals, and filled 2 international patents
+    * strong skills in data analysis and bioinformatics, solid expertise in immunology-based assays, animal models, molecular and cellular biology, biochemistry and flow cytometry, and great ability to understand and take advantage of innovative technologies, e.g., AI
+    * supervised and mentored technicians and PhD students; responsible for multiple technical and IT platforms
+
+experiences:
+  enable: true
+  icon: "fa-briefcase"
+  title: "Experiences"
+
+jobs:
+  list:
+  - position: Director Preclinical Development
+    dates: Nov 2021 -- present
+    company: Worg Pharmaceuticals, Switzerland
+    image: 
+      url: http://www.worgpharma.com/uploadfile/202110/4481c8717c.png
+      style: "flex"
+    details: |
+      * development of the preclinical program for our drug candidates
+        * _in vitro_ and _in vivo_ pharmacology, pharmacokinetics
+        * IND-enabling GLP program from scratch for a small molecule in the ophthalmology field
+        * extension of non-clinical package for supporting a Phase 2a clinical trial (peptides)
+      * EMA, FDA and CDE (China) regulatory documents: CTD (Module 2.4), pre-IND Briefing Package, IND Application, Investigator Brochure, etc.
+      * management of all the preclinical operations with CROs
+
+    technos:
+    - GLP
+    - nonclinical
+    - pharmacodynamics
+    - PK/TK
+    - safety pharmacology
+    - toxicology
+    - ocular toxicity
+    - juvenile toxicology
+    - DART
+    - NHPs
+    - IND
+    - peptide
+    - ICH guidelines
+    - FDA, EMA and CDE
+    - CTD, PIND, IB
+    - Graves' Disease
+    - fibrosis
+    - allergy
+
+  - position: Principal Scientist
+    dates: Dec 2018 -- Oct 2021
+    company: University of Applied Sciences (FHNW) and Roche External Employee, Switzerland
+    image: 
+      url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hoffmann-La_Roche_logo.svg/2560px-Hoffmann-La_Roche_logo.svg.png
+      style: "flex"
+    details: |
+      * development of innovative bioassays in immunology and cell and gene therapy (GMP)
+      * training of the technical staff in flow cytometry, and human cell biology/immunology
+
+    technos:
+    - GMP
+    - ddPCR
+    - imaging cytometry
+    - multiplex
+    - RNAseq
+    - NK cells
+    - macrophages
+    - ADCC, ADCP
+    - gene therapy
+    - AAV
+    - Pentraxin-2
+    - gantenerumab
+    - pertuzumab
+    - glofitamab
+
+  - position: Senior Scientist (part-time)
+    dates: Nov 2020 -- Oct 2021
+    company: VAXIMM AG, Germany
+    image: 
+      url: https://vaximm.com/wp-content/uploads/2016/07/vaximm_logo_pos.png
+      style: "flex"
+    details: |
+      * responsible for the personalized neoantigen vaccine assembly for the clinical trial NECVAXNEO1
+
+    technos:
+    - personalised medicine
+    - DNA vaccine
+    - glioblastoma
+    - NGS
+    - neoantigen assembly
+    - machine learning
+
+  - position: Senior Scientist
+    dates: Feb 2016 -- Nov 2018
+    company: VAXIMM AG, Germany
+    image: 
+      url: https://vaximm.com/wp-content/uploads/2016/07/vaximm_logo_pos.png
+      style: "flex"
+    details: |
+      * preclinical development of the company's oral T cell vaccine pipeline (30+ studies)
+      * supervision of the immunomonitoring and histopathology GCLP analyses of our phase I/II clinical trials
+      * business development (industry, academic collaborations) and management of our CRO partner portfolio
+      * regular and active participation to our Company Board and internal meetings + international congresses
+
+    technos:
+    - preclincal development
+    - angiogenesis
+    - CRO
+    - histology
+    - bioinformatics
+    - data science
+    - BD
+
+  - position: Parental Leave
+    dates: Mar 2015 -- Jan 2016
+    company: France
+    image: 
+      url: https://blog.pregistry.com/wp-content/uploads/2018/01/AdobeStock_78205848.jpeg
+      style: "flex"
+    details: |
+      * provision of care for my baby
+      * completion of a full renovation of a house within budget
+        * coordination and scheduling of the activities of 10+ contractors
+        * partnering with local community members to gain planning approvals
+        * taking lessons to gain specific technical skills in plumbing, electricity etc.
+      * updating and extending professional skills in physiology, biostatistics, and programming
+
+    technos:
+    - Being a Great Dad for Dummies
+    - construction work
+    - biostatistics
+    - Python 3
+
+  - position: Roche Postdoctoral Fellow/Scientist
+    dates: 2012 -- 2015
+    company: Roche Glycart/University Hospital Basel, Switzerland
+    image: 
+      url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hoffmann-La_Roche_logo.svg/2560px-Hoffmann-La_Roche_logo.svg.png
+      style: "flex"
+    details: |
+      * led a challenging project on the assessment of a novel tumor stroma-targeted IL-2-variant immunocytokines with anti-cancer therapeutics and immunomodulatory antibodies through T- and NK-cells in the preclinical genetically engineered Krasmut/p53-/- mouse model of non-small cell lung cancer. Cancer Immunology (Prof. A. Zippelius), Department of Biomedicine (ZLF), Universitätsspital Basel, Switzerland; and Roche Glycart (Mentor Dr. C. Klein), Schlieren, Switzerland. Supported by the Roche Postdoc Fellowship (RPF) Program
+
+    technos:
+    - IL-2
+    - immunocytokine
+    - immune checkpoint inhibitors
+    - lung cancer
+    - LTK2
+    - GEMM
+    - tumor xenografts
+    - co-culture
+    - 3D culture
+    - frozen section
+    - intratracheal
+    - SPECT/µCT
+    - animal license
+
+  - position: Postdoctoral Scientist
+    dates: 2007 -- 2011
+    company: Ludwig Institute for Cancer Research/UNIL, Switzerland
+    image: 
+      url: https://edit.uia.org/img/org_logos/XE2949.jpg
+      style: "flex"
+    details: |
+      * led a great translational immuno-oncology project on the characterization of CD8 T cell responses after therapeutic vaccination of melanoma patients with antigenic peptides (prospective phase I clinical trial). Ludwig Institute for Cancer Research Lausanne branch (Prof. P. Romero, Prof. D. Speiser and Dr. N. Rufer), and the Centre Pluridisciplinaire d'Oncologie, Faculté de Biologie et de Médecine, University of Lausanne (UNIL), Switzerland. Supported by Oncosuisse, and Wilhelm Sander Stiftung
+
+    technos:
+    - TCR
+    - tetramers
+    - multicolor flow cytometry
+    - sequecing
+    - RT-PCR
+    - whole genome microarray
+    - single cells
+    - cell sorting
+    - PBMC
+    - T cells
+    - ELISpot
+    - T cell cloning
+    - molecular biology
+    - lentivirus
+
+  - position: Visiting scientist
+    dates: 2007
+    company: University Hospital Lyon, France
+    image: 
+      url: https://www.chu-lyon.fr/themes/custom/hcl/assets/images/logo.svg
+      style: "flex"
+    details: |
+      * initiated a national project on the transduction of human DCs with adenovirus and enhanced presentation of HIV-1 epitopes; applications to the potentiation of an anti-HIV-1 response. Laboratory of Virology & Viral Pathogenesis (Prof. P. Boulanger), CNRS UMR 5537, Faculty of Medicine RTH Laennec, Lyon, France. Continuation of the collaborative project started in Jan. 2006. Supported by a grant from ANRS
+
+    technos:
+    - HIV
+    - adenovirus
+    - dendritic cells
+
+  - position: Ph.D. Student
+    dates: 2003 -- 2007
+    company: University of Strasbourg, France
+    image: 
+      url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Universit%C3%A9_de_Strasbourg.svg/306px-Universit%C3%A9_de_Strasbourg.svg.png
+      style: "flex"
+    details: |
+      * development of innovative functional CD40L mimetics based on C3-symmetric peptide scaffolds, at the interface of chemistry and biology; applications to cancer vaccines and immunotherapy. Immunologie et Chimie Thérapeutiques (Prof. S. Müller), Institut de Biologie Moléculaire et Cellulaire (IBMC), CNRS UPR 9021, Strasbourg, France. Supervised by Prof. S. Fournel and Dr. G. Guichard. Supported by the Ministère de l'Education Nationale de la Recherche et des Technologies (MENRT), and the Fondation pour la Recherche Médicale (FRM)
+
+    technos:
+    - transfection
+    - RNAi
+    - PCR
+    - apoptosis
+    - confocal microscopy
+    - live imaging
+    - cell biology
+    - SDS-PAGE
+    - Western blot
+    - Southern blot
+    - 2D gel-electrophoresis
+    - ELISA
+    - hybridoma
+    - insect cells
+    - chromatography
+    - microbiology
+    - surface plasmon resonance
+    - dynamic light scattering
+    - organic chemistry
+    - mass spectroscopy
+
+  - position: Course Assistant
+    dates: 2004 -- 2007
+    company: University of Strasbourg, France
+    image: 
+      url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Universit%C3%A9_de_Strasbourg.svg/306px-Universit%C3%A9_de_Strasbourg.svg.png
+      style: "flex"
+    details: |
+      * course assistant in immunology (travaux pratiques) for B.Sc. biochemistry, Université Strasbourg I (2004 - 2007; 60 hours)
+      * teaching assistant in immunobiology (travaux dirigés) for first college degree in biology, Université Strasbourg I (2005 - 2006; 30 hours)
+
+  - position: IT support
+    dates: 2004 -- 2007
+    company: University of Strasbourg, France
+    image: 
+      url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Universit%C3%A9_de_Strasbourg.svg/306px-Universit%C3%A9_de_Strasbourg.svg.png
+      style: "flex"
+    details: |
+      * computer assistance to the users (software installation, workshops, hardware fix, basic network troubleshooting), and deploying/optimizing of new hardware (computers and instruments). Immunologie et Chimie Thérapeutiques (Prof. S. Müller), Institut de Biologie Moléculaire et Cellulaire (IBMC), CNRS UPR 9021, Strasbourg, France
+
+projects:
+  enable: true
+  icon: fa-archive
+  title: Others
+  list:
+  - title: Patents
+    tagline: |
+      1. Guichard G, Fournel S, Trouche N, **Wieckowski S**. Novel multimeric molecules, a process for preparing the same and the use thereof for manufacturing medical drugs.
+      Brevet Français 07/00809, déposant CNRS (05/02/2007)
+      International Application PCT/FR2008/000129 (04/02/2008)
+      International Publication WO/2008/110695 (18/09/2008)
+      2. Guichard G, Fournel S, Chaloin O, Trouche N, **Wieckowski S**, Hoebeke J. Novel multimeric CD40 ligands, method for preparing same and use thereof for preparing drugs.
+      Brevet Français 04/13331, déposant CNRS (15/12/2004)
+      International Application PCT/FR2005/03146 (15/12/2005)
+      International Publication WO/2006/064133 (22/06/2006)
+
+  - title: Communications (selection)
+    tagline: |
+      * **Wieckowski S**, Avenal C, Orjalo AV, Gygax D, and Cymer F.
+      A better understanding of bioassays -- comparison of binding assays, reporter gene assays and primary cell-based assays of glycoengineered monoclonal antibodies. BEBPA's Virtual 2021 EUR Bioassay Conference. Oral presentation
+      * **Wieckowski S**, Podola L, Kobl I, Smetak H, Springer M, Nugues AL, Slos P, Broadmeadow A, Chesher C, Adda Berkane A, Wei M, Breiner K, Meichle A, Breiner K, Mansour M, Beckhove P, Lubenau H.
+      Modulating T cell immunity in tumors by targeting tumor-associated antigens, PD-L1 and neoantigens using a versatile live attenuated oral Salmonella DNA vaccination platform. AACR Annual Meeting, Chicago (USA), 2018. Poster 733
+      * **Wieckowski S**.
+      Non-clinical safety, immunogenicity and antitumor efficacy of live attenuated Salmonella Typhimurium based oral T-cell vaccines. ASGCT 20th Annual Meeting, Washington, D.C (USA), 2017. Oral presentation #777
+      * **Wieckowski S**, Baumgaertner P, Corthésy P, Voelter V, Romero R, Speiser D, Rufer N.
+      Characterization of CD8+ T cell responses induced by vaccination with Melan-A peptides in melanoma patients. Role of Inflammation in Oncogenesis and Immune Escape in Cancer joint Keystone Symposia, Keystone, CO (USA), 2010. Poster J5-338
+      * **Wieckowski S**, Baumgaertner P, Corthésy P, Voelter V, Romero R, Speiser D, Rufer N.
+      Molecular characterization of CD8+ T cell responses in melanoma patients following therapeutic peptide vaccination. 4e Journée Scientifiques du Cancéropôle Lyon Auvergne Rhône-Alpes, Archamps (France), 2009. Poster P70. Best Poster Award (see CLARA report on page 17)
+      * **Wieckowski S**, Baumgaertner P, Corthésy P, Voelter V, Romero R, Speiser D, Rufer N.
+      CD8 T cell responses in melanoma patients following therapeutic peptide vaccination. 1st Swiss Immunotherapy Symposium, Lausanne (Switzerland), 2009. Oral presentation
+      * **Wieckowski S**, Trouche N, Hoebeke J, Guichard G, Fournel S.
+      Application of functional small synthetic CD40L mimetics to lymphoma therapy. 1st joint meeting of European National Societies of Immunology, 16th European Congress of Immunology, Paris (France), 2006. Poster PD-3918
+      * **Wieckowski S**, Trouche N, Sun W, Chaloin O, Hoebeke J, Guichard G, Fournel S.
+      Improvements of small synthetic CD40L mimetics and their effects on cell signaling. MipTec -- the 9th Leading European Drug Discovery Event, Basel (Switzerland), 2006. Poster P89
+      * **Wieckowski S**, Trouche N, Chaloin O, Bianco A, Hoebeke J, Dumortier H, Guichard G, Fournel S.
+      A synthetic multimeric ligand of CD40 is able to mimic effector functions of the natural CD40L. Congrès Annuel de la Société Française d'Immunologie, Paris (France), 2004. Poster P50
+
+  - title: Peer-reviewing
+    tagline: |
+      * Active reviewer in Journal for ImmunoTherapy of Cancer, Cancer Immunology Immunotherapy, Cancers, Vaccines, Biomedicines, Immuno, International Journal of Molecular Sciences, and Biomolecules. See also records on [ORCID](https://orcid.org/0000-0001-8121-4446) and [publons](https://www.webofscience.com/wos/author/record/1951188)
+
+  - title: Fellowships and grants
+    tagline: |
+      * subvention de fin de thèse de la FRM, 1-year fellowship (15,000 €), 2007
+      * BSI Travel Award (£700), 2007
+      * ANRS Research Grant (2 years) - Réseau DENDRADE (200,000 €), 2007
+      * ANRS Post-doc Fellowship (2 years) - Réseau DENDRADE (45,000 €), 2007
+      * Wilhelm Sander-Stiftung Fellowship (80,000 CHF), 2010
+      * Roche Postdoc Fellowship Program extension 1 year (140,000 CHF), 2013
+      * Freiwillige Akademische Gesellschaft ½ year (53,000 CHF), 2013
+
+  - title: Computer skills
+    tagline: |
+      * excellent knowledge of **Microsoft Windows** and **Linux**, including **[Powershell](https://www.udemy.com/certificate/UC-XQHGZRXT/) and [Bash](https://www.linkedin.com/in/sbwiecko/details/skills/=)** shells, e.g., WSL2
+      * computer-savvy with strong programming capabilities ([**Python, R**, C++](https://www.linkedin.com/in/sbwiecko/details/skills/), Julia, BASIC). **SQL** and noSQL ([MySQL](https://www.linkedin.com/in/sbwiecko/details/skills/))
+      * **data analysis and visualization** with **Python** [(NumPy, SciPy, pandas, matplotlib, seaborn, Bokeh, plotly, and Machine Learning with scikit-learn)](https://www.udemy.com/certificate/UC-J6XB8YWN/), **R** (RStudio), and [MATLAB](https://www.linkedin.com/in/sbwiecko/details/skills/); Visual Studio Code, Git, Docker
+      * collaborative/interactive working and presentations with **Jupyter notebook, Markdown, [Dash](https://www.udemy.com/certificate/UC-79f83847-c0c1-4f0e-b5fc-b699344c0a30/)** and GitLab
+      * [**advanced microsoft office**](https://www.linkedin.com/in/sbwiecko/details/skills/), i.e., Word, [Excel with VBA and Python](https://www.udemy.com/certificate/UC-M3DTI3UZ/), Power BI, PowerPoint, Access with SQL, OneNote, Teams, and SharePoint
+      * creation and building of **full-stack websites** with [Django, HTML and CSS](https://www.linkedin.com/in/sbwiecko/details/skills/), web applications, and interactive dashboards for data visualization; design of [**Graphical User Interfaces** with Qt for Python and PySide6](https://www.udemy.com/course/creez-des-applications-de-bureau-avec-python-et-pyside)
+      * **specialized tools**, e.g., [Inkscape](https://www.udemy.com/certificate/UC-8f4ce3bc-f8e4-4bde-a645-494c68ca062d/), GIMP, Photoshop, Prism, FlowJo, FCS Express, DIVA, Kaluza, GeneSpring, Fiji (ImageJ), Zotero, Clone Manager etc.
+      * **bioinformatics**, i.e., online tools and databases, R and Python libraries incl. Bioconductor and biopython
+      * **openBIS** digital notebook, and other data management, labnotebook and inventory management systems
+
+  - title: Professional development and training
+    tagline: |
+      * **[Quantitative Biology Workshop](https://courses.edx.org/certificates/1f6a5ddffde247b896885934edb09352)**. MITx, USA (2022)
+      * [**Machine learning in python** with scikit-learn](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41026+session01_4a9d614871848635f374e9527daed1ec.pdf). INRIA, France (2021)
+      * [Introduction to **statistics with Python**](https://drive.google.com/file/d/1GbvrF4Vw6-bELw861x63K2yBJe1MTaiF/view). Swiss Institute of Bioinformatics, Switzerland (2021)
+      * [**Docker and Singularity** for reproducible research](https://drive.google.com/file/d/1zBnssHoKfZmMfwZdkEqossxrb0HT13aW/view). Swiss Institute of Bioinformatics, Switzerland (2021)
+      * [Version Control with **Git**](https://drive.google.com/file/d/1_YOXc8LZqdbx6OXXi25luYTZyjO-yVgb/view). Swiss Institute of Bioinformatics, Switzerland (2021)
+      * [**Transcriptomics Analysis**](https://drive.google.com/file/d/1ySfD5y_JrKyADyVedkI5yr0nSHwpIB0N/view). Swiss Institute of Bioinformatics, Switzerland (2021)
+      * **(sc)RNAseq Data Analysis**, _full semester ([CAMB714](https://diytranscriptomics.com/))_. PennVet, University of Pennsylvania, USA (2020)
+      * [**SQL** Fundamentals Track](https://www.datacamp.com/profile/sbwiecko). DataCamp, Belgium (2020)
+      * [Bio-informatique pour la **Génomique Médicale**](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:USPC+37028+session01_a81e721dc788ba09bf63e5a9feda69dc.pdf). CEA, Université de Paris, France (2020)
+      * [**IBM Data Science**](https://www.credly.com/badges/47be9d99-0dce-4798-907b-6c36898943e1/public_url) (Methodology, SQL, Visualization, Machine Learning). IBM, USA (2019-2020)
+      * **Mathematics for Machine Learning**: [Linear Algebra](https://coursera.org/share/14570de94eca9d5182aa5b4975b6869e) and [Multivariate Calculus](https://coursera.org/share/4983985d9c9e0766582b1421bcffb2e9). Imperial College London, UK (2019)
+      * [Using **Python for Research**](https://courses.edx.org/certificates/e37496c0e7bd4ba5bc1183880455f68b). HarvardX, USA (2018)
+      * [Introduction à la **statistique avec R**](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:UPSUD+42001+session10_b53c0b9918f42204500b163c6497bf12.pdf). Faculté de Médecine, Université Paris Sud, France (2018)
+      * [**Reproducible Research**: Methodological Principles for Transparent Science](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41016+session01bis_763e0e0b58a5d93f10f605d2ca08ea2e.pdf). INRIA, France (2018)
+      * **SME Instrument** Applicants Training. Euresearch, Bern, Switzerland (2018)
+      * [Maîtriser le **Shell Bash**](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:univ-reunion+128001+session01_849777e0e988c2836c3fb14de6663558.pdf). Université de la Réunion, France (2018)
+      * [**Python 3**, from basics to advanced concepts](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:UCA+107001+session01_ab4814f53cb7861f4654508c098db77a.pdf). Université Côte d'Azur, France (2018)
+      * [**Data Scientist with Python** Career Track](https://www.datacamp.com/profile/sbwiecko). DataCamp, Belgium (2017--2018)
+      * **Human histology**. Université de Médecine de Liège, Belgium (2017)
+      * [**Bioinformatics**: Genomes and Algorithms](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41007+session02_aa763eec40254e5277be283dd093956b.pdf). INRIA, France (2017)
+      * [**Création d'entreprises innovantes** : de l'idée à la start-up](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:umontpellier+08003+session02_18578551a98324d4599c26666b22718e.pdf). Université de Montpellier, France (2017)
+      * [**LTK Module 2**](https://drive.google.com/file/d/1xwEgse98HTnCluuxT2KIP5zsDj_G9s9q/view) -- Education and Training of Persons Conducting Animal Experiments. University of Zurich, Switzerland (2012). Accreditation as Study Director (Kantonale Tierschutzfachstelle, Veterinäramt Basel-Stadt).
+      * **Animal Experimentation and Small Animal Surgery** (mouse and rat). Université Strasbourg I, France (2007)
+      * Fluorescence and Compensation in **Multicolor Cytometry**. Association Française de Cytométrie, Paris, France (2005)
+      * **Proteomics**. Institut de Biologie Moléculaire et Cellulaire, Strasbourg, France (2005)
+      * **Confocal Microscopy**. Institut de Biologie Moléculaire des Plantes, Strasbourg, France (2004)
+      * **Pain in Animals**. Institut de Physiologie et de Chimie Biologique, Strasbourg, France (2004)
+
+
+interests:
+  enable: true
+  title: Interests
+  list:
+    - Electronics, DYI and gardening
+    - Running 10 and 21K
+    - Tennis and hiking

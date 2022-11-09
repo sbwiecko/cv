@@ -1,0 +1,15 @@
+<section class="section projects-section">
+    <h2 class="section-title"><i class="fa {{ .Site.Params.projects.icon }}"></i>{{ i18n "qualifications" }}</h2>
+    {{ range .Site.Params.qualifications.list }}
+    <div class="item">
+        <span class="project-title"><a href="{{ .url }}">{{ .title }}</a></span>
+        <img src="{{ .badge }}" style=""/>
+        <div class="tech">
+        {{ range .tags }}
+            <span class="label label-primary">{{ . }}</span>
+        {{ end }}
+        </div>
+    </div><!--//item-->
+    <br />
+    {{ end }}
+</section><!--//section-->

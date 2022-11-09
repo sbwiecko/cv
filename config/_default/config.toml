@@ -1,0 +1,160 @@
+# Page settings
+
+baseURL = 'https://sbwiecko.github.io/cv/'
+languageCode = 'en-us'
+title = 'another version of my resume'
+theme = 'hugo-orbit-theme'
+googleAnalytics = "UA-XXXXXXX-Y"
+
+# Do not build files for websites. Need them? Set to false
+disableRSS = true
+disableSitemap = true
+disable404 = true
+
+[params]
+
+# Meta
+    description = "another version of my resume"
+    author = "Sébastien Wieckowski"
+
+# Theme styles
+
+    # The original template comes with 6 colour schemes. You may choose styles below.
+    # "styles.css", "styles-2.css", "styles-3.css", "styles-4.css", "styles-5.css", "styles-6.css"
+    # are available. Also the source LESS files are included so
+    # it’s quick and easy to change the styling and colour scheme.
+
+    styles = "styles-6.css"
+
+# Sidebar sections
+
+    # Profile section
+    [params.profile]
+        name = "Sébastien Wieckowski, Ph.D."
+        tagline = "biotechnologist--immunologist, age 42, French/EU citizenship, married and one child"
+        avatar = "profile-pic.png"
+
+    # Contact section
+    [params.contact]
+        enable = true
+
+        [[params.contact.list]]
+        class = "email"
+        icon = "fa-envelope"
+        url = "mailto: sbwiecko@gmail.com"
+        title = "sbwiecko@gmail.com"
+
+        [[params.contact.list]]
+        class = "phone"
+        icon = "fa-phone"
+        url = "tel:+33767137882"
+        title = "+33 7 67 13 78 82"
+
+        [[params.contact.list]]
+        class = "website"
+        icon = "fa-globe"
+        url = "//sbwiecko.github.io/my_resume/"
+        title = "academic CV"
+
+        [[params.contact.list]]
+        class = "linkedin"
+        icon = "fa-linkedin"
+        url = "//linkedin.com/in/sbwiecko"
+        title = "/sbwiecko"
+
+        [[params.contact.list]]
+        class = "scholar"
+        icon = "fa-graduation-cap"
+        url = "//www.ncbi.nlm.nih.gov/pubmed/?term=sebastien+wieckowski"
+        title = "PubMed"
+
+        [[params.contact.list]]
+        class = "pubmed"
+        icon = "fa-graduation-cap"
+        url = "//scholar.google.com/citations?user=fzECT2QAAAAJ&hl=en"
+        title = "Google Scholar"
+
+        [[params.contact.list]]
+        class = "researchgate"
+        icon = "fa-graduation-cap"
+        url = "//www.researchgate.net/profile/Sebastien_Wieckowski"
+        title = "researchgate"
+
+        [[params.contact.list]]
+        class = "twitter"
+        icon = "fa-twitter"
+        url = "//twitter.com/sbwiecko"
+        title = "@sbwiecko"
+
+        [[params.contact.list]]
+        class = "github"
+        icon = "fa-github"
+        url = "//github.com/sbwiecko"
+        title = "github.com/sbwiecko"
+
+        [[params.contact.list]]
+        class = "stack-overflow"
+        icon = "fa-stack-overflow"
+        url = "//stackoverflow.com/users/8275142/s%c3%a9bastien-wieckowski"
+        title = "/user/8275142"
+
+    # Education section
+    [params.education]
+        enable = true
+        title = "Education"
+
+        [[params.education.list]]
+        degree = "Ph.D. in Immunology"
+        college = "Université Strasbourg, France"
+        dates = "2003 -- 2007"
+
+        [[params.education.list]]
+        degree = "Master Degree in Health Biology"
+        college = "Université Montpellier II, France"
+        dates = "2002 -- 2003"
+
+        [[params.education.list]]
+        degree = "M.Sc. in Biochemistry + Organic Chemistry"
+        college = "Université Montpellier II, France"
+        dates = "2001 -- 2002"
+
+        [[params.education.list]]
+        degree = "B.Sc. in Biochemistry + Bioinformatics (Summa Cum Laude)"
+        college = "Université Montpellier II, France"
+        dates = "2000 -- 2001"
+
+    # Languages section
+    [params.language]
+        enable = true
+        title = "Languages"
+
+        [[params.language.list]]
+        language = "French"
+        level = "native"
+
+        [[params.language.list]]
+        language = "English"
+        level = "full professional proficiency"
+
+        [[params.language.list]]
+        language = "German"
+        level = "elementary proficiency"
+
+        [[params.language.list]]
+        language = "Polish"
+        level = "elementary proficiency"
+
+
+# Main body sections
+
+    # You may use markdown in summary, details and intro fields. But don't overdose, it's resume!:)
+
+    # Summary section
+    [params.summary]
+        enable = true
+        icon = "fa-user"
+        title = "Career Profile"
+        summary = "* PhD-qualified immunologist with 15 years of experience with a focus on tumor immunology and cancer vaccines; * gained a valued experience at all stages of drug development: discovery, IND-enabling, GLP nonclinical and biomarker supports for phase II and GMP-bioassays for phase III and commercialization; * published 6 first author + 18 co-author manuscripts in high-impact scientific journals, and filled 2 international patents; * strong skills in data analysis and bioinformatics, solid expertise in immunology-based assays, animal models, molecular and cellular biology, biochemistry and flow cytometry, and great ability to understand and take advantage of innovative technologies, e.g., AI; * supervised and mentored technicians and PhD students; responsible for multiple technical and IT platforms"
+
+    [params.footer]
+        copyright = ""
