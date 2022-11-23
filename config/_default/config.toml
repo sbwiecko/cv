@@ -54,7 +54,7 @@ disable404 = true
         class = "linkedin"
         icon = "fa-linkedin"
         url = "//linkedin.com/in/sbwiecko"
-        title = "/sbwiecko"
+        title = "sbwiecko"
 
         [[params.contact.list]]
         class = "twitter"
@@ -84,7 +84,7 @@ disable404 = true
         class = "stack-overflow"
         icon = "fa-stack-overflow"
         url = "//stackoverflow.com/users/8275142/s%c3%a9bastien-wieckowski"
-        title = "/user/8275142"
+        title = "user/8275142"
 
         [[params.contact.list]]
         class = "website"
