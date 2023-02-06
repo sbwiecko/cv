@@ -3,7 +3,7 @@ summary:
   icon: "fa-user"
   title: "Career Profile"
   summary: |
-    * PhD-qualified immunologist with 15 years of experience with a focus on tumor immunology and cancer vaccines in the biotechnology environment
+    * PhD-qualified immunologist with 15 years of experience with a focus on immuno-oncology and cancer vaccines in the biotechnology environment
     * valued experience at all stages of drug development: early discovery, IND-enabling preclinics, GLP nonclinical and biomarker supports for phase II, and GMP bioassays for phase III and drug commercialization
     * published 6 first author + 18 co-author manuscripts in high-impact scientific journals, filled 2 international patents and active reviewer in a dozen of scientific journals
     * solid expertise in immunology-based assays, animal models, molecular and cellular biology, biochemistry and flow cytometry, strong skills in data analysis and bioinformatics, and great ability to take advantage of innovative technologies, e.g., AI
@@ -17,7 +17,7 @@ experiences:
 jobs:
   list:
   - position: Director Preclinical Development
-    dates: Nov 2021 -- present
+    dates: Nov 2021 -- Feb 2023
     company: Worg Pharmaceuticals, Switzerland
     image: 
       url: https://bioville.be/wp-content/uploads/2021/10/2021-Worg-Pharma.jpg
@@ -25,7 +25,7 @@ jobs:
     details: |
       * development of the preclinical program for our drug candidates
         * _in vitro_ and _in vivo_ pharmacology, pharmacokinetics and toxicology
-        * IND-enabling GLP program from scratch for a small molecule in the ophthalmology field
+        * IND-enabling GLP program from scratch for a small molecule in ophthalmology
         * extension of non-clinical package for supporting a Phase 2a clinical trial
       * EMA, FDA and CDE (China) regulatory documents: pre-IND Briefing Package, Investigator Brochure, CTD (Module 2.4), IND Application, etc.
       * management of all the preclinical operations with CROs

@@ -100,22 +100,22 @@ disable404 = true
         [[params.education.list]]
         degree = "Ph.D. in Immunology"
         college = "Université Strasbourg, France"
-        dates = "2003 -- 2007"
+        dates = "2003 - 2007"
 
         [[params.education.list]]
         degree = "Master Degree in Health Biology"
         college = "Université Montpellier II, France"
-        dates = "2002 -- 2003"
+        dates = "2002 - 2003"
 
         [[params.education.list]]
         degree = "M.Sc. in Biochemistry + Organic Chemistry"
         college = "Université Montpellier II, France"
-        dates = "2001 -- 2002"
+        dates = "2001 - 2002"
 
         [[params.education.list]]
         degree = "B.Sc. in Biochemistry + Bioinformatics (Summa Cum Laude)"
         college = "Université Montpellier II, France"
-        dates = "2000 -- 2001"
+        dates = "2000 - 2001"
 
     # Languages section
     [params.language]
