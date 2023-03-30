@@ -31,7 +31,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Sébastien Wieckowski, Ph.D."
-        tagline = "immunologist, age 42, French/EU citizenship, married and one child"
+        tagline = "immunologist, age 43, French/EU citizenship, married and one child"
         avatar = "profile-pic.png"
 
     # Contact section
