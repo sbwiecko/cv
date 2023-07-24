@@ -5,7 +5,7 @@ summary:
   summary: |
     * PhD-qualified immunologist with 15 years of experience with a focus on immuno-oncology and cancer vaccines in the biotechnology environment
     * valued experience at all stages of drug development: early discovery, IND-enabling preclinics, GLP nonclinical and biomarker supports for phase II, and GMP bioassays for phase III and drug commercialization
-    * h-index=18, published 6 first author + 18 co-author manuscripts in high-impact scientific journals, filled 2 international patents and active reviewer in a dozen of scientific journals
+    * h-index=18, [published 6 first author + 18 co-author manuscripts in high-impact scientific journals](https://www.ncbi.nlm.nih.gov/pubmed/?term=sebastien+wieckowski), filled 2 international patents and active reviewer in a dozen of scientific journals
     * solid expertise in immunology-based assays, animal models, molecular and cellular biology, biochemistry and flow cytometry, strong skills in data analysis and bioinformatics, and great ability to take advantage of innovative technologies, e.g., AI
     * supervised and mentored technicians, students and PhD candidates, responsible for multiple technical and IT platforms
 
@@ -50,9 +50,9 @@ jobs:
     - small molecules
     - peptides
 
-  - position: Principal Scientist
+  - position: Research Associate
     dates: Dec 2018 -- Oct 2021
-    company: University of Applied Sciences (FHNW) and Roche External Employee, Switzerland
+    company: University of Applied Sciences (FHNW) and Roche Contractor, Switzerland
     image: 
       url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hoffmann-La_Roche_logo.svg/2560px-Hoffmann-La_Roche_logo.svg.png
       style: "flex"
@@ -287,13 +287,13 @@ projects:
 
   - title: Peer-reviewing
     tagline: |
-      * Active reviewer in Journal for ImmunoTherapy of Cancer, Cancer Immunology Immunotherapy, Cancers, Vaccines, Biomedicines, Immuno, Journal of Clinical Medicine, Marine Drugs, Genes, Biomolecules, and International Journal of Molecular Sciences. See also records on [ORCID](https://orcid.org/0000-0001-8121-4446) and [publons](https://www.webofscience.com/wos/author/record/1951188)
+      * Active reviewer in Journal for ImmunoTherapy of Cancer, Cancer Immunology Immunotherapy, Cancers, Vaccines, Viruses, Biomedicines, Immuno, Journal of Clinical Medicine, Marine Drugs, Genes, Biomolecules, and International Journal of Molecular Sciences. See also records on [ORCID](https://orcid.org/0000-0001-8121-4446) and [publons](https://www.webofscience.com/wos/author/record/1951188)
 
   - title: Computer skills
     tagline: |
-      * excellent knowledge of **Microsoft Windows** and **Linux**, including **[Powershell](https://www.udemy.com/certificate/UC-XQHGZRXT/) and [Bash](https://www.linkedin.com/in/sbwiecko/details/skills/=)** shells, e.g., WSL2
+      * excellent knowledge of **Microsoft Windows** and **Linux**, including **[Powershell](https://www.udemy.com/certificate/UC-XQHGZRXT/) and [Bash](https://www.linkedin.com/in/sbwiecko/details/skills/=)** shells, e.g., WSL2, Ubuntu, Kali etc.
       * computer-savvy with strong programming capabilities ([**Python, R**, C++](https://www.linkedin.com/in/sbwiecko/details/skills/), Julia, BASIC). **SQL** and noSQL ([MySQL](https://www.linkedin.com/in/sbwiecko/details/skills/))
-      * **data analysis and visualization** with **Python** [(NumPy, SciPy, pandas, matplotlib, seaborn, Bokeh, plotly, and Machine Learning with scikit-learn)](https://www.udemy.com/certificate/UC-J6XB8YWN/), **R** (RStudio), and [MATLAB](https://www.linkedin.com/in/sbwiecko/details/skills/); Visual Studio Code, Git, Docker
+      * **data analysis and visualization** with **Python** [(NumPy, SciPy, pandas, matplotlib, seaborn, Bokeh, plotly, and Machine Learning with scikit-learn)](https://www.udemy.com/certificate/UC-J6XB8YWN/), **R** (RStudio and radian), and [MATLAB](https://www.linkedin.com/in/sbwiecko/details/skills/); Visual Studio Code, Git, Docker, etc.
       * collaborative/interactive working and presentations with **Jupyter notebook, Markdown, [Dash](https://www.udemy.com/certificate/UC-79f83847-c0c1-4f0e-b5fc-b699344c0a30/)** and GitLab
       * [**advanced microsoft office**](https://www.linkedin.com/in/sbwiecko/details/skills/), i.e., Word, [Excel with VBA and Python](https://www.udemy.com/certificate/UC-M3DTI3UZ/), Power BI, PowerPoint, Access with SQL, OneNote, Teams, and SharePoint
       * creation and building of **full-stack websites** with [Django, HTML and CSS](https://www.linkedin.com/in/sbwiecko/details/skills/), web applications, and interactive dashboards for data visualization; design of [**Graphical User Interfaces** with Qt for Python and PySide6](https://www.udemy.com/course/creez-des-applications-de-bureau-avec-python-et-pyside)
@@ -301,38 +301,23 @@ projects:
       * **bioinformatics**, i.e., online tools and databases, R and Python libraries incl. Bioconductor and biopython
       * **openBIS** digital notebook, and other data management, labnotebook and inventory management systems
 
-  - title: Professional development and training
+  - title: Professional development and training (selection)
     tagline: |
+      * [**Mathematics for Machine Learning Specialization**](https://coursera.org/share/90fd4c422d81d320f3e7bbcaef13c3c6)**: [Linear Algebra](https://coursera.org/share/14570de94eca9d5182aa5b4975b6869e), [Multivariate Calculus](https://coursera.org/share/4983985d9c9e0766582b1421bcffb2e9), and [Principal Component Analysis](https://coursera.org/share/cdbe76ff70c99fe119dc4d0a40bc66d4). Imperial College London, UK (2019--2023)
+      * [**Chimie : ouvrez les portes de l'enseignement supérieur**](https://openbadgepassport.com/app/badge/info/593094). Université de Liège (2023)
       * [**Des probabilités à l'estimation bayésienne**](https://openbadgefactory.com/v1/assertion/4a87fbe3659a7bad9836271280cb870a8c8f8544). Centrale Nantes, France (2023)
       * [**OpenAI Python API Bootcamp**: AI, GPT3, and more](https://www.udemy.com/certificate/UC-b0ab4158-640e-4bd9-ba41-3daba632c25d/). Udemy (2023)
-      * **[Quantitative Biology Workshop](https://courses.edx.org/certificates/1f6a5ddffde247b896885934edb09352)**. MITx, USA (2022)
-      * [**Machine learning in python** with scikit-learn](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41026+session01_4a9d614871848635f374e9527daed1ec.pdf). INRIA, France (2021)
-      * [Introduction to **statistics with Python**](https://drive.google.com/file/d/1GbvrF4Vw6-bELw861x63K2yBJe1MTaiF/view). Swiss Institute of Bioinformatics, Switzerland (2021)
-      * [**Docker and Singularity** for reproducible research](https://drive.google.com/file/d/1zBnssHoKfZmMfwZdkEqossxrb0HT13aW/view). Swiss Institute of Bioinformatics, Switzerland (2021)
-      * [Version Control with **Git**](https://drive.google.com/file/d/1_YOXc8LZqdbx6OXXi25luYTZyjO-yVgb/view). Swiss Institute of Bioinformatics, Switzerland (2021)
-      * [**Transcriptomics Analysis**](https://drive.google.com/file/d/1ySfD5y_JrKyADyVedkI5yr0nSHwpIB0N/view). Swiss Institute of Bioinformatics, Switzerland (2021)
+      * [**Quantitative Biology Workshop**](https://courses.edx.org/certificates/1f6a5ddffde247b896885934edb09352). MITx, USA (2022)
       * **(sc)RNAseq Data Analysis**, _full semester ([CAMB714](https://diytranscriptomics.com/))_. PennVet, University of Pennsylvania, USA (2020)
-      * [**SQL** Fundamentals Track](https://www.datacamp.com/profile/sbwiecko). DataCamp, Belgium (2020)
-      * [Bio-informatique pour la **Génomique Médicale**](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:USPC+37028+session01_a81e721dc788ba09bf63e5a9feda69dc.pdf). CEA, Université de Paris, France (2020)
       * [**IBM Data Science**](https://www.credly.com/badges/47be9d99-0dce-4798-907b-6c36898943e1/public_url) (Methodology, SQL, Visualization, Machine Learning). IBM, USA (2019-2020)
-      * **Mathematics for Machine Learning**: [Linear Algebra](https://coursera.org/share/14570de94eca9d5182aa5b4975b6869e) and [Multivariate Calculus](https://coursera.org/share/4983985d9c9e0766582b1421bcffb2e9). Imperial College London, UK (2019)
       * [Using **Python for Research**](https://courses.edx.org/certificates/e37496c0e7bd4ba5bc1183880455f68b). HarvardX, USA (2018)
       * [Introduction à la **statistique avec R**](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:UPSUD+42001+session10_b53c0b9918f42204500b163c6497bf12.pdf). Faculté de Médecine, Université Paris Sud, France (2018)
       * [**Reproducible Research**: Methodological Principles for Transparent Science](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41016+session01bis_763e0e0b58a5d93f10f605d2ca08ea2e.pdf). INRIA, France (2018)
-      * **SME Instrument** Applicants Training. Euresearch, Bern, Switzerland (2018)
-      * [Maîtriser le **Shell Bash**](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:univ-reunion+128001+session01_849777e0e988c2836c3fb14de6663558.pdf). Université de la Réunion, France (2018)
       * [**Python 3**, from basics to advanced concepts](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:UCA+107001+session01_ab4814f53cb7861f4654508c098db77a.pdf). Université Côte d'Azur, France (2018)
       * [**Data Scientist with Python** Career Track](https://www.datacamp.com/profile/sbwiecko). DataCamp, Belgium (2017--2018)
-      * **Human histology**. Université de Médecine de Liège, Belgium (2017)
-      * [**Bioinformatics**: Genomes and Algorithms](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41007+session02_aa763eec40254e5277be283dd093956b.pdf). INRIA, France (2017)
-      * [**Création d'entreprises innovantes** : de l'idée à la start-up](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:umontpellier+08003+session02_18578551a98324d4599c26666b22718e.pdf). Université de Montpellier, France (2017)
+      * [**Human histology**](https://drive.google.com/file/d/1f2-42DIbihb9zPnNhs0HSiCnY-MCr1Gc/view?usp=drive_link). Université de Médecine de Liège, Belgium (2017)
       * [**LTK Module 2**](https://drive.google.com/file/d/1xwEgse98HTnCluuxT2KIP5zsDj_G9s9q/view) -- Education and Training of Persons Conducting Animal Experiments. University of Zurich, Switzerland (2012). Accreditation as Study Director (Kantonale Tierschutzfachstelle, Veterinäramt Basel-Stadt).
       * **Animal Experimentation and Small Animal Surgery** (mouse and rat). Université Strasbourg I, France (2007)
-      * Fluorescence and Compensation in **Multicolor Cytometry**. Association Française de Cytométrie, Paris, France (2005)
-      * **Proteomics**. Institut de Biologie Moléculaire et Cellulaire, Strasbourg, France (2005)
-      * **Confocal Microscopy**. Institut de Biologie Moléculaire des Plantes, Strasbourg, France (2004)
-      * **Pain in Animals**. Institut de Physiologie et de Chimie Biologique, Strasbourg, France (2004)
-
 
 interests:
   enable: true
