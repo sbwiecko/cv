@@ -13,7 +13,7 @@ body {
   color: #545E6C;
   background: #f5f5f5;
   font-size: 14px;
-  padding: 30px;
+  padding: 20px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -21,16 +21,20 @@ h1,
 h2,
 h3,
 h4,
-h5,
+h5 {
+  font-weight: 800;
+}
 h6 {
-  font-weight: 700;
+  font-weight: 600;
+  margin-bottom: 0;
 }
 a {
-  color: #2e4049;
+  color: #545E6C;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
 }
 a:hover {
   text-decoration: underline;
@@ -42,9 +46,16 @@ a:focus {
 p {
   line-height: 1.5;
 }
+.main-wrapper  ol, .main-wrapper ul {
+  margin-left: -25px;
+  list-style-position: outside;
+}
+.main-wrapper li {
+  list-style-type: square;
+}
 .wrapper {
   background: #4B6A78;
-  max-width: 960px;
+  /* max-width: 1200px; */
   margin: 0 auto;
   position: relative;
   -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
@@ -55,9 +66,9 @@ p {
   background: #4B6A78;
   position: absolute;
   right: 0;
-  width: 240px;
+  width: 250px;
   height: 100%;
-  min-height: 800px;
+  /* min-height: 800px; */
   color: #fff;
 }
 .sidebar-wrapper a {
@@ -70,8 +81,8 @@ p {
   color: #fff;
 }
 .sidebar-wrapper .name {
-  font-size: 32px;
-  font-weight: 900;
+  font-size: 28px;
+  font-weight: 800;
   margin-top: 0;
   margin-bottom: 10px;
 }
@@ -86,12 +97,14 @@ p {
   margin-bottom: 15px;
 }
 .sidebar-wrapper .contact-list .fa {
-  margin-right: 5px;
-  font-size: 18px;
+  margin-right: 14px;
+  font-size: 20px;
   vertical-align: middle;
 }
 .sidebar-wrapper .contact-list li {
-  margin-bottom: 15px;
+  margin-bottom: 14px;
+  font-weight: 200;
+  /* color: #b3b9c2; */
 }
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
@@ -112,17 +125,18 @@ p {
 .sidebar-wrapper .degree {
   font-size: 14px;
   margin-top: 0;
-  margin-bottom: 5px;
+  margin-bottom: 4px;
+  font-weight: 500;
 }
 .sidebar-wrapper .education-container .item {
-  margin-bottom: 15px;
+  margin-bottom: 30px;
 }
 .sidebar-wrapper .education-container .item:last-child {
   margin-bottom: 0;
 }
 .sidebar-wrapper .education-container .meta {
   color: rgba(255, 255, 255, 0.6);
-  font-weight: 500;
+  font-weight: 400;
   margin-bottom: 0px;
   margin-top: 0;
 }
@@ -130,15 +144,19 @@ p {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
   margin-bottom: 0px;
+  text-align: left;
 }
 .sidebar-wrapper .language-container .lang-desc {
   color: rgba(255, 255, 255, 0.6);
+}
+.sidebar-wrapper li {
+  margin-left: 4px;
 }
 .sidebar-wrapper .languages-list {
   margin-bottom: 0;
 }
 .sidebar-wrapper .languages-list li {
-  margin-bottom: 10px;
+  margin-bottom: 6px;
 }
 .sidebar-wrapper .languages-list li:last-child {
   margin-bottom: 0;
@@ -147,29 +165,33 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .interests-list li {
-  margin-bottom: 10px;
+  margin-bottom: 4px;
+  margin-left: -2;
+  font-weight: 350;
+  /* font-style: italic; */
 }
 .sidebar-wrapper .interests-list li:last-child {
   margin-bottom: 0;
 }
 .main-wrapper {
   background: #fff;
-  padding: 60px;
-  padding-right: 300px;
+  padding: 20px;
+  padding-right: 280px;
   page-break-before: always;
+  padding-top: 1px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 600;
   color: #2e4049;
   position: relative;
   margin-top: 0;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 .main-wrapper .section-title .fa {
-  width: 30px;
-  height: 30px;
+  width: 32px;
+  height: 32px;
   margin-right: 8px;
   display: inline-block;
   color: #fff;
@@ -189,28 +211,29 @@ p {
   top: -2px;
 }
 .main-wrapper .section {
-  margin-bottom: 60px;
-  page-break-inside: avoid;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  page-break-inside: always;
 }
 .main-wrapper .experiences-section .item {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 .main-wrapper .upper-row {
   position: relative;
   overflow: hidden;
-  margin-bottom: 2px;
+  margin-bottom: 4px;
 }
 .main-wrapper .job-title {
   color: #3F4650;
   font-size: 16px;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 5px;
+  margin-bottom: 2px;
   font-weight: 500;
 }
 .main-wrapper .time {
   position: absolute;
   right: 0;
-  top: 0;
+  top: 2px;
   color: #97AAC3;
 }
 .main-wrapper .company {
@@ -218,16 +241,24 @@ p {
   color: #97AAC3;
 }
 .main-wrapper .project-title {
-  font-size: 16px;
-  font-weight: 400;
-  margin-top: 0;
-  margin-bottom: 5px;
+  font-size: 20px;
+  font-weight: 450;
+  margin-top: 2;
+  margin-bottom: 0px;
+}
+.main-wrapper .project-tagline {
+  margin-bottom: 0;
+  font-size:12px;
 }
 .main-wrapper .projects-section .intro {
-  margin-bottom: 30px;
+  margin-bottom: 0;
 }
 .main-wrapper .projects-section .item {
-  margin-bottom: 15px;
+  margin-bottom: 0px;
+  /* font-size: 12px; */
+}
+.main-wrapper .qualification-tagline {
+  font-size:14px;
 }
 .skillset .item {
   margin-bottom: 15px;
@@ -252,12 +283,12 @@ p {
 }
 .footer .copyright {
   line-height: 1.6;
-  color: #545E6C;
+  color: #b3b9c2;
   font-size: 13px;
 }
-.footer .fa-heart {
+/* .footer .fa-heart {
   color: #fb866a;
-}
+} */
 .btn-translate {
   background-color: #27383f;
   border-color: #4f6f7d;
@@ -274,7 +305,7 @@ p {
   .main-wrapper .time {
     position: static;
     display: block;
-    margin-top: 5px;
+    margin-top: 0;
   }
   .main-wrapper .upper-row {
     margin-bottom: 0;
@@ -285,17 +316,41 @@ p {
 @media (min-width: 992px) {
   .skillset .level-title {
     display: inline-block;
-    float: left;
     width: 30%;
     margin-bottom: 0;
   }
   .skillset .level-bar {
     display: inline-block;
     width: 70%;
-    float: left;
     position: relative;
     top: 1px;
   }
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
+
+@media print {
+  .main-wrapper img {
+    display: none;
+  }
+  .main-wrapper {
+    position: static;
+  }
+  .sidebar-wrapper img {
+    display: none;
+  }
+  .sidebar-wrapper {
+    position: static;
+    width: inherit;
+    font-size: 10px;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+  }
+  .sidebar-wrapper .name {
+    font-size: 18px;
+  }
+  @page {
+      margin: 2;
+      size: A4;
+  }
+}

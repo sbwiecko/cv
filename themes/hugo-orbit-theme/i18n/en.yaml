@@ -1,16 +1,16 @@
 - id: education
   translation: Education
 - id: experiences
-  translation: R&D Experience
+  translation: R&D experience
 - id: interests
   translation: Interests
 - id: language
   translation: Languages
 - id: projects
-  translation: Additional Information
+  translation: Research output
 - id: skills
-  translation: Skills & Proficiency
+  translation: Technical skills
 - id: summary
-  translation: Profile Summary
+  translation: Profile summary
 - id: qualifications
-  translation: Profressional development and training
+  translation: Competences and continuing education

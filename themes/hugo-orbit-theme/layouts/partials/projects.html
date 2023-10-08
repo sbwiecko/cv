@@ -8,7 +8,7 @@
         {{- with .image }}
         <img src="{{ .Site.BaseURL }}{{ .url }}" style="float: left; margin-right: 10px; max-width: 64px"/>
         {{- end }}
-        <span class="project-title"><a href="{{ .url }}">{{ .title }}</a></span>
+        <span class="project-title"><p>{{ .title }}</p></span>
         <span class="project-tagline">{{ with .tagline }}{{ . | markdownify }}{{ end }}</span>
     </div><!--//item-->
     <br />

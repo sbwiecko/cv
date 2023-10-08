@@ -2,9 +2,8 @@
 
 baseURL = 'https://sbwiecko.github.io/cv/'
 languageCode = 'en-us'
-title = 'another version of my resume'
+title = 'my CV'
 theme = 'hugo-orbit-theme'
-googleAnalytics = "G-6V8FZTPY5E"
 
 # Do not build files for websites. Need them? Set to false
 disableRSS = true
@@ -14,7 +13,7 @@ disable404 = true
 [params]
 
 # Meta
-    description = "another version of my resume"
+    description = "my CV"
     author = "Sébastien Wieckowski"
 
 # Theme styles
@@ -86,12 +85,6 @@ disable404 = true
         url = "//stackoverflow.com/users/8275142/s%c3%a9bastien-wieckowski"
         title = "user/8275142"
 
-        [[params.contact.list]]
-        class = "website"
-        icon = "fa-external-link"
-        url = "//sbwiecko.github.io/my_resume/"
-        title = "Full CV"
-
     # Education section
     [params.education]
         enable = true
@@ -142,13 +135,14 @@ disable404 = true
 # Main body sections
 
     # You may use markdown in summary, details and intro fields. But don't overdose, it's resume!:)
+    # see the params.yaml content
 
     # Summary section
     [params.summary]
-        enable = true
+        enable = false
         icon = "fa-user"
         title = "Career Profile"
-        summary = "* PhD-qualified immunologist with 15 years of experience with a focus on tumor immunology and cancer vaccines; * gained a valued experience at all stages of drug development: discovery, IND-enabling, GLP nonclinical and biomarker supports for phase II and GMP-bioassays for phase III and commercialization; * published 6 first author + 18 co-author manuscripts in high-impact scientific journals, and filled 2 international patents; * strong skills in data analysis and bioinformatics, solid expertise in immunology-based assays, animal models, molecular and cellular biology, biochemistry and flow cytometry, and great ability to understand and take advantage of innovative technologies, e.g., AI; * supervised and mentored technicians and PhD students; responsible for multiple technical and IT platforms"
+        summary = ""
 
     [params.footer]
-        copyright = ""
+        copyright = "Sébastien Wieckowski"

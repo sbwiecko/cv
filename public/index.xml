@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>another version of my resume</title>
+    <title>my CV</title>
     <link>https://sbwiecko.github.io/cv/</link>
-    <description>Recent content on another version of my resume</description>
+    <description>Recent content on my CV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://sbwiecko.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
   </channel>

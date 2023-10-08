@@ -1,14 +1,14 @@
-<section class="skills-section section">
-    <h2 class="section-title"><i class="fa {{ .icon }}"></i>{{ .title }}</h2>
-    <div class="skillset">
-    {{ range .items }}
-        <div class="item">
-            <h3 class="level-title">{{ .title }}</h3>
-            <div class="level-bar">
-                <div class="level-bar-inner" data-level="{{ .level }}">
-                </div>
-            </div><!--//level-bar-->
-        </div><!--//item-->
+<section class="section projects-section">
+    <h2 class="section-title"><i class="fa {{ .Site.Params.skills.icon }}"></i>{{ i18n "skills" }}</h2>
+    {{ range .Site.Params.skills.list }}
+    <div class="item">
+        <h6>{{ .skill }}</h6>
+        <div class="tech">
+        {{ range .technos }}
+            <span class="label label-default">{{ . }}</span>
+        {{ end }}
+        </div>
+    </div><!--//item-->
+    <br />
     {{ end }}
-    </div>
-</section><!--//skills-section-->
+</section><!--//section-->
