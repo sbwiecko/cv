@@ -97,13 +97,13 @@ p {
   margin-bottom: 15px;
 }
 .sidebar-wrapper .contact-list .fa {
-  margin-right: 14px;
+  text-align: left;
   font-size: 20px;
   vertical-align: middle;
 }
 .sidebar-wrapper .contact-list li {
   margin-bottom: 14px;
-  font-weight: 200;
+  font-weight: 300;
   /* color: #b3b9c2; */
 }
 .sidebar-wrapper .contact-list li:last-child {

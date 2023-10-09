@@ -25,24 +25,26 @@ jobs:
         * _in vitro_ and _in vivo_ pharmacology, pharmacokinetics and toxicology
         * IND-enabling GLP program from scratch for a small molecule in ophthalmology
         * extension of non-clinical package for supporting a Phase 2a clinical trial
-      * EMA, FDA and CDE (China) regulatory documents: pre-IND Briefing Package, Investigator Brochure, CTD (Module 2.4), IND Application
+      * EMA, FDA and CDE (China) regulatory documents: pre-IND Briefing Package, Investigator Brochure, CTD (Module 2.4), IND application
       * management of all the preclinical operations with CROs
 
     technos:
     - GLP
-    - nonclinical
-    - pharmacodynamics
-    - pharmacokinetics
-    - safety pharmacology
+    - pharmacology
     - toxicology
+    - nonclinical
+    - PK/PD
     - ocular toxicity
-    - juvenile/paediatric toxicology
+    - juvenile toxicology
     - DART
     - nonhuman primates
-    - CROs
     - ICH guidelines
-    - FDA, EMA, CDE
-    - IND, CTD, PIND, IB
+    - FDA
+    - EMA
+    - CDE (China)
+    - IND
+    - CTD
+    - PIND
     - Graves' Disease
     - allergy
     - small molecules
@@ -67,7 +69,8 @@ jobs:
     - RNAseq
     - NK cells
     - macrophages
-    - ADCC, ADCP
+    - ADCC
+    - ADCP
     - gene therapy
     - AAV
     - Pentraxin-2
@@ -106,13 +109,16 @@ jobs:
       * regular and active participation to our Company Board and internal meetings + international congresses
 
     technos:
+    - DNA vaccine
     - preclinical
+    - toxicology
     - angiogenesis
     - CROs
     - histology
     - bioinformatics
     - data science
     - business development
+    - Investigator Brochure
 
   - position: Parental Leave
     dates: 2015
@@ -132,7 +138,7 @@ jobs:
     - becoming a Great Dad
     - construction work
     - biostatistics
-    - Python 3 from Zero to Hero
+    - Python 3
 
   - position: Roche Postdoc Fellowship (RPF)
     dates: 2012 — 2015
@@ -146,19 +152,18 @@ jobs:
       * deputy study director for animal licenses of the Cancer Immunology group (Prof. A. Zippelius)
 
     technos:
-    - IL-2
-    - immunocytokine
-    - immune checkpoint inhibitors
+    - IL-2v
+    - immunocytokines
+    - ICIs
     - lung cancer
     - LTK2
     - GEMM
     - tumor xenografts
     - co-culture
-    - 3D culture
-    - frozen section
+    - IHC
     - intratracheal
     - SPECT/µCT
-    - animal license
+    - animal licenses
 
   - position: Maître Assistant / Lab Manager
     dates: 2007 — 2011
@@ -175,17 +180,17 @@ jobs:
     technos:
     - TCR
     - tetramers
-    - multicolor flow cytometry
+    - flow cytometry
     - sequencing
     - RT-PCR
-    - whole genome microarray
+    - microarray
     - single cells
     - cell sorting
     - peptides
     - PBMCs
     - T cell cloning
+    - CTL
     - ELISpot
-    - molecular biology
     - lentivirus
 
   - position: Visiting scientist
@@ -201,6 +206,8 @@ jobs:
     - HIV
     - adenovirus
     - dendritic cells
+    - molecular biology
+    - grant
 
   - position: Ph.D. Student
     dates: 2003 — 2007
@@ -213,22 +220,14 @@ jobs:
       * mentoring of students and technical staff
 
     technos:
-    - transfection
-    - RNAi
-    - PCR
     - apoptosis
     - confocal microscopy
-    - live imaging
-    - cell biology
     - SDS-PAGE
     - Western blot
-    - Southern blot
     - 2D gel-electrophoresis
     - ELISA
     - hybridoma
-    - insect cells
     - chromatography
-    - microbiology
     - surface plasmon resonance
     - dynamic light scattering
     - organic chemistry
@@ -257,6 +256,15 @@ jobs:
     details: |
       * IT help to all my colleagues: installation of scientific software, workshops, hardware fix (with headache), network troubleshooting
       * deployment and optimization of new hardware (computers and instruments)
+    technos:
+    - Windows
+    - server
+    - peripherals
+    - network
+    - installation
+    - configuration
+    - maintenance
+    - troubleshooting
 
 projects:
   enable: true
@@ -383,14 +391,14 @@ qualifications:
       * excellent knowledge of Microsoft Windows and **Linux**, including [**Powershell**](https://www.udemy.com/certificate/UC-XQHGZRXT/) and [**Bash**](https://www.linkedin.com/in/sbwiecko/details/skills/=) shells, e.g., WSL2, Ubuntu, Kali
       * computer-savvy with strong programming capabilities ([**Python, R**, C++](https://www.linkedin.com/in/sbwiecko/details/skills/), BASIC); **SQL** and noSQL ([MySQL](https://www.linkedin.com/in/sbwiecko/details/skills/))
       * [**advanced microsoft office**](https://www.linkedin.com/in/sbwiecko/details/skills/), i.e., Word, [Excel with VBA and Python](https://www.udemy.com/certificate/UC-M3DTI3UZ/), Power BI, PowerPoint, Access with SQL, OneNote, Teams, and SharePoint; [Google Workspace](https://www.cloudskillsboost.google/profile/badges)
-      * **data analysis and visualization** with **Python** [(NumPy, SciPy, pandas, matplotlib, seaborn, Bokeh, plotly, and Machine Learning with scikit-learn)](https://www.udemy.com/certificate/UC-J6XB8YWN/), **R** (RStudio and radian), and [MATLAB](https://www.linkedin.com/in/sbwiecko/details/skills/)
-      * **specialized tools**: [Inkscape](https://www.udemy.com/certificate/UC-8f4ce3bc-f8e4-4bde-a645-494c68ca062d/), GIMP, Photoshop, Prism, FlowJo (with R), FCS Express, DIVA, Kaluza, GeneSpring, Fiji (ImageJ), Zotero, Clone Manager
+      * **data analysis** and visualization with **Python** [(NumPy, SciPy, pandas, matplotlib, seaborn, Bokeh, plotly, and Machine Learning with scikit-learn)](https://www.udemy.com/certificate/UC-J6XB8YWN/), **R** (RStudio and radian), and [MATLAB](https://www.linkedin.com/in/sbwiecko/details/skills/)
+      * specialized tools: [Inkscape](https://www.udemy.com/certificate/UC-8f4ce3bc-f8e4-4bde-a645-494c68ca062d/), GIMP, Photoshop, Prism, FlowJo (with R), FCS Express, DIVA, Kaluza, GeneSpring, Fiji (ImageJ), Zotero, Clone Manager
       * **bioinformatics**: online tools and databases, R and Python libraries incl. Bioconductor and biopython, (sc)RNA-Seq pipelines
       * cloud computing on [**Google Cloud Platform**](https://www.cloudskillsboost.google/public_profiles/caa0e406-e2a1-47f1-b32e-0e868d7cd718): [Create and Manage Cloud Resources](https://www.cloudskillsboost.google/public_profiles/caa0e406-e2a1-47f1-b32e-0e868d7cd718/badges/5076130), [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.cloudskillsboost.google/public_profiles/caa0e406-e2a1-47f1-b32e-0e868d7cd718/badges/5196304), [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://www.cloudskillsboost.google/public_profiles/caa0e406-e2a1-47f1-b32e-0e868d7cd718/badges/5296868)
-      * collaborative/interactive working and presentations with **Jupyter notebook, Markdown, [Dash](https://www.udemy.com/certificate/UC-79f83847-c0c1-4f0e-b5fc-b699344c0a30/)** and GitLab; Visual Studio Code, Git, Docker
-      * building and deployment of **full-stack websites** with [Django, HTML and CSS](https://www.linkedin.com/in/sbwiecko/details/skills/), web applications, and interactive dashboards for data visualization; design of [**Graphical User Interfaces** with Qt for Python and PySide6](https://www.udemy.com/course/creez-des-applications-de-bureau-avec-python-et-pyside)
+      * collaborative/interactive working and presentations with **Jupyter notebook**, Markdown, [Dash](https://www.udemy.com/certificate/UC-79f83847-c0c1-4f0e-b5fc-b699344c0a30/) and GitLab; Visual Studio Code, Git, Docker
+      * building and deployment of **full-stack websites** with [Django, HTML and CSS](https://www.linkedin.com/in/sbwiecko/details/skills/), web applications, and interactive dashboards for data visualization; design of [**GUIs** with Qt for Python and PySide6](https://www.udemy.com/course/creez-des-applications-de-bureau-avec-python-et-pyside)
       * **openBIS** digital notebook, and other data management, labbook and inventory management systems
-      * solid knowledges/self-educated in **electronics**, including basics and integrated circuits, digital electronics, microcontrollers and microprocessors ([Arduino](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04017+session04_c070509c782dda7606bf9c29b832722f.pdf), [Raspberry Pi](https://www.udemy.com/certificate/UC-C4QNZY9T/)) and [MicroPython](https://openbadgepassport.com/app/badge/info/593097)
+      * solid knowledges/self-educated in **electronics**, including basics and integrated circuits, digital electronics, **microcontrollers** and microprocessors ([Arduino](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04017+session04_c070509c782dda7606bf9c29b832722f.pdf), [Raspberry Pi](https://www.udemy.com/certificate/UC-C4QNZY9T/)) and [MicroPython](https://openbadgepassport.com/app/badge/info/593097)
 
   - title: Professional development and training
     tagline: |
@@ -410,19 +418,19 @@ qualifications:
       * [**OpenAI Python API Bootcamp**: AI, GPT3, and more](https://www.udemy.com/certificate/UC-b0ab4158-640e-4bd9-ba41-3daba632c25d/). Udemy (2023)
       * [**Quantitative Biology Workshop**](https://courses.edx.org/certificates/1f6a5ddffde247b896885934edb09352). MITx, USA (2022)
       * [**Machine learning in python** with scikit-learn](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41026+session01_4a9d614871848635f374e9527daed1ec.pdf). INRIA, France (2021)
-      * [Introduction to **statistics with Python**](https://drive.google.com/file/d/1GbvrF4Vw6-bELw861x63K2yBJe1MTaiF/view). Swiss Institute of Bioinformatics, Switzerland (2021)
+      * [**Introduction to statistics with Python**](https://drive.google.com/file/d/1GbvrF4Vw6-bELw861x63K2yBJe1MTaiF/view). Swiss Institute of Bioinformatics, Switzerland (2021)
       * [**Docker and Singularity** for reproducible research](https://drive.google.com/file/d/1zBnssHoKfZmMfwZdkEqossxrb0HT13aW/view). Swiss Institute of Bioinformatics, Switzerland (2021)
-      * [Version Control with **Git**](https://drive.google.com/file/d/1_YOXc8LZqdbx6OXXi25luYTZyjO-yVgb/view). Swiss Institute of Bioinformatics, Switzerland (2021)
+      * [**Version Control with Git**](https://drive.google.com/file/d/1_YOXc8LZqdbx6OXXi25luYTZyjO-yVgb/view). Swiss Institute of Bioinformatics, Switzerland (2021)
       * [**Transcriptomics Analysis**](https://drive.google.com/file/d/1ySfD5y_JrKyADyVedkI5yr0nSHwpIB0N/view). Swiss Institute of Bioinformatics, Switzerland (2021)
       * **(sc)RNAseq Data Analysis**, _full semester ([CAMB714](https://diytranscriptomics.com/))_. PennVet, University of Pennsylvania, USA (2020)
-      * [**SQL** Fundamentals Track](https://www.datacamp.com/profile/sbwiecko). DataCamp, Belgium (2020)
-      * [Bio-informatique pour la **Génomique Médicale**](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:USPC+37028+session01_a81e721dc788ba09bf63e5a9feda69dc.pdf). CEA, Université de Paris, France (2020)
+      * [**SQL Fundamentals** Track](https://www.datacamp.com/profile/sbwiecko). DataCamp, Belgium (2020)
+      * [**Bio-informatique pour la Génomique Médicale**](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:USPC+37028+session01_a81e721dc788ba09bf63e5a9feda69dc.pdf). CEA, Université de Paris, France (2020)
       * [**IBM Data Science**](https://www.credly.com/badges/47be9d99-0dce-4798-907b-6c36898943e1/public_url) (Methodology, SQL, Visualization, Machine Learning). IBM, USA (2019-2020)
       * [**Python for Research**](https://courses.edx.org/certificates/e37496c0e7bd4ba5bc1183880455f68b). HarvardX, USA (2018)
-      * [Introduction à la **statistique avec R**](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:UPSUD+42001+session10_b53c0b9918f42204500b163c6497bf12.pdf). Faculté de Médecine, Université Paris Sud, France (2018)
+      * [**Introduction à la statistique avec R**](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:UPSUD+42001+session10_b53c0b9918f42204500b163c6497bf12.pdf). Faculté de Médecine, Université Paris Sud, France (2018)
       * [**Reproducible Research**: Methodological Principles for Transparent Science](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41016+session01bis_763e0e0b58a5d93f10f605d2ca08ea2e.pdf). INRIA, France (2018)
       * **SME Instrument** Applicants Training. Euresearch, Bern, Switzerland (2018)
-      * [Maîtriser le **Shell Bash**](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:univ-reunion+128001+session01_849777e0e988c2836c3fb14de6663558.pdf). Université de la Réunion, France (2018)
+      * [**Maîtriser le Shell Bash**](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:univ-reunion+128001+session01_849777e0e988c2836c3fb14de6663558.pdf). Université de la Réunion, France (2018)
       * [**Python 3**, from basics to advanced concepts](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:UCA+107001+session01_ab4814f53cb7861f4654508c098db77a.pdf). Université Côte d'Azur, France (2018)
       * [**Data Scientist with Python** Career Track](https://www.datacamp.com/profile/sbwiecko). DataCamp, Belgium (2017--2018)
       * [**Human histology**](https://drive.google.com/file/d/1f2-42DIbihb9zPnNhs0HSiCnY-MCr1Gc/view?usp=drive_link). Université de Médecine de Liège, Belgium (2017)
@@ -430,7 +438,7 @@ qualifications:
       * [**Création d'entreprises innovantes** : de l'idée à la start-up](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:umontpellier+08003+session02_18578551a98324d4599c26666b22718e.pdf). Université de Montpellier, France (2017)
       * [**LTK Module 2**](https://drive.google.com/file/d/1xwEgse98HTnCluuxT2KIP5zsDj_G9s9q/view) -- Education and Training of Persons Conducting Animal Experiments. University of Zurich, Switzerland (2012). Accreditation as Study Director (Kantonale Tierschutzfachstelle, Veterinäramt Basel-Stadt).
       * **Animal Experimentation and Small Animal Surgery** (mouse and rat). Université Strasbourg I, France (2007)
-      * Fluorescence and Compensation in **Multicolor Cytometry**. Association Française de Cytométrie, Paris (2005)
+      * **Multicolor Cytometry**: Fluorescence and Compensation. Association Française de Cytométrie, Paris (2005)
       * **Proteomics**. Institut de Biologie Moléculaire et Cellulaire, Strasbourg, France (2005)
       * **Confocal Microscopy**. Institut de Biologie Moléculaire des Plantes, Strasbourg, France (2004)
       * **Pain in Animals**. Institut de Physiologie et de Chimie Biologique, Strasbourg, France (2004)
@@ -452,7 +460,7 @@ skills:
     - BATDA
     - CTL
     - lentivirus
-    - pMHC tetra-/penta-/multi-mers
+    - pMHC multimers
     - ELISA
     - ELISpot
     - multiplex immunoassays
@@ -495,7 +503,7 @@ skills:
     - lymphoid tissues
     - rodents
     - genotyping
-    - SPECT/CT (Bioscan)
+    - SPECT/μCT (Bioscan)
     - animal licenses
   
   - skill: molecular biology

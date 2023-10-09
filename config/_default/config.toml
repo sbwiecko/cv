@@ -30,7 +30,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Sébastien Wieckowski, Ph.D."
-        tagline = "immunologist, age 43, French/EU citizenship, married and one child"
+        tagline = "immuno-oncologist, age 43, French/EU, married and one child"
         avatar = "profile-pic.png"
 
     # Contact section
@@ -77,7 +77,7 @@ disable404 = true
         class = "github"
         icon = "fa-github"
         url = "//github.com/sbwiecko"
-        title = "github.com/sbwiecko"
+        title = "  github.com/sbwiecko"
 
         [[params.contact.list]]
         class = "stack-overflow"
