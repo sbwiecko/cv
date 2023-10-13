@@ -39,25 +39,25 @@ disable404 = true
 
         [[params.contact.list]]
         class = "email"
-        icon = "fa-envelope"
+        icon = "fa-solid fa-envelope"
         url = "mailto: sbwiecko@gmail.com"
         title = "sbwiecko@gmail.com"
 
         [[params.contact.list]]
         class = "phone"
-        icon = "fa-phone"
+        icon = "fa-solid fa-mobile"
         url = "tel:+33767137882"
         title = "+33 7 67 13 78 82"
 
         [[params.contact.list]]
         class = "linkedin"
-        icon = "fa-linkedin"
+        icon = "fa-brands fa-linkedin"
         url = "//linkedin.com/in/sbwiecko"
         title = "sbwiecko"
 
         [[params.contact.list]]
         class = "twitter"
-        icon = "fa-twitter"
+        icon = "fa-brands fa-x-twitter"
         url = "//twitter.com/sbwiecko"
         title = "@sbwiecko"
 
@@ -69,7 +69,7 @@ disable404 = true
 
         [[params.contact.list]]
         class = "researchgate"
-        icon = "fa-graduation-cap"
+        icon = "fa-brands fa-researchgate"
         url = "//www.researchgate.net/profile/Sebastien_Wieckowski"
         title = "researchgate"
 
