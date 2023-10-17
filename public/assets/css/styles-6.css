@@ -46,12 +46,20 @@ a:focus {
 p {
   line-height: 1.5;
 }
-.main-wrapper  ol, .main-wrapper ul {
+.main-wrapper li {
+  list-style-type: square;
+}
+.main-wrapper ol li {
+  list-style: decimal;
+  /* list-style-position: inside; */
+}
+.main-wrapper ol, .main-wrapper ul {
   margin-left: -25px;
   list-style-position: outside;
 }
-.main-wrapper li {
-  list-style-type: square;
+.main-wrapper ol {
+    display: flex;
+    flex-direction: column-reverse;
 }
 .wrapper {
   background: #4B6A78;
